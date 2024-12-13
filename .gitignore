@@ -1,0 +1,9 @@
+*.out
+data_*
+__pycache__
+*.pkl
+*.pt
+*.txt
+*.csv
+.ipynb_checkpoints
+.DS_Store
